@@ -1,6 +1,6 @@
 <h1 align=center> BlogApp </h1>
 
->> Deployed Website(might load slow first time) : https://mern-stack-blog-app-main.onrender.com/
+> Deployed Website(might load slow first time) : https://mern-stack-blog-app-main.onrender.com/
 
 <h3 align=center> Register </h3>
 
