@@ -1,5 +1,7 @@
 <h1 align=center> BlogApp </h1>
 
+>> Deployed Website(might load slow first time) : https://mern-stack-blog-app-main.onrender.com/
+
 <h3 align=center> Register </h3>
 
 ![Screenshot from 2023-08-03 21-48-56](https://github.com/singhxayush/BlogApp/assets/90480489/2acfbe3c-09b7-4069-a35f-04cbe1cdb73c)
